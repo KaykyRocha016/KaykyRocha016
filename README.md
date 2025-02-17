@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cursando Eng.Software no IFSP.<br>criando experiência na área do desenvolvimento e em busca <br>de me tornar um fullstack
+Cursando Eng.Software no IFSP.<br>Criando experiência na área do desenvolvimento de software  <br>
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-Kayky Bruno Rocha(21)
+Kayky Bruno Rocha <br><br>(21y)<br><br>
 Cursando Eng.Software no IFSP.<br>Criando experiência na área do desenvolvimento de software  <br>
 
 
